@@ -45,6 +45,7 @@ public class Test02 {
 		
 		String numStr3 = "true";
 		boolean numLogic = Boolean.parseBoolean(numStr3); //문자열을 논리값으로 변환
+		System.out.println(str2);
 		
 		// int num1 = 100;
 		//String str2 = (String) 100; // 자바에서는 숫자(정수, 실수)를 바로 문자열로 변환 불가. 반대도 안됨.
