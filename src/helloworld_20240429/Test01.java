@@ -20,6 +20,7 @@ public class Test01 {
 		x = 100; //x값을 100으로 초기화
 		System.out.println("나의 수학점수는 "+ x + "입니다");
 		//String
+		System.out.println("나의 수학점수는 "+ x + "입니다");
 		
 	}
 
